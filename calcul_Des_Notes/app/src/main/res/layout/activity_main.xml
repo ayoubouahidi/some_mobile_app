@@ -31,11 +31,10 @@
         android:inputType="number|numberDecimal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.562"
+        app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.204" />
-
+        app:layout_constraintVertical_bias="0.189" />
 
     <EditText
         android:id="@+id/ip2"
@@ -46,10 +45,10 @@
         android:inputType="number|numberDecimal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.549"
+        app:layout_constraintHorizontal_bias="0.527"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ip1"
-        app:layout_constraintVertical_bias="0.048" />
+        app:layout_constraintVertical_bias="0.052" />
 
     <Button
         android:id="@+id/btn1"
@@ -79,8 +78,8 @@
         android:id="@+id/ip3"
         android:layout_width="226dp"
         android:layout_height="49dp"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="288dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="280dp"
         android:ems="10"
         android:hint="entrer votre note"
         android:inputType="number|numberDecimal"
@@ -91,12 +90,12 @@
         android:id="@+id/ip4"
         android:layout_width="227dp"
         android:layout_height="51dp"
-        android:layout_marginTop="364dp"
+        android:layout_marginTop="352dp"
         android:ems="10"
         android:hint="entrer votre note"
         android:inputType="number|numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.554"
+        app:layout_constraintHorizontal_bias="0.532"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
