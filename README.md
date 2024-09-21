@@ -1,6 +1,6 @@
 # 📱 Mobile Application in Kotlin and XML
 
-Welcome to the **[App Name]** repository! This project is a native Android mobile application developed using **Kotlin** as the primary programming language and **XML** for UI design.
+Welcome to the **[Some Mobile app]** repository! This project is a native Android mobile application developed using **Kotlin** as the primary programming language and **XML** for UI design.
 
 ## 🚀 Key Features
 
